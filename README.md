@@ -1,1 +1,2 @@
 # forEachMapFilterAssignment
+# someEveryExercises
