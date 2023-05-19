@@ -37,3 +37,12 @@ git status
 git add .
 ls
 git push origin master
+echo "# forEachMapFilterAssignment" >> README.md
+git status
+git add .
+git status
+git commit -m "adding files"
+git status
+git checkout main
+git checkout main branch
+git status
